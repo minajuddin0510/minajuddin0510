@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm MD. Minaj Uddin</h1>
+<h1 align="center">Hey 👋, I'm Minaj Uddin</h1>
 
 <h3 align="center">
-🚀 Software Engineering Student | 💻 Vibe Coder | 📈 Future Tech Entrepreneur
+🚀 Software Engineering Student | 💻 Vibe Coder 
 </h3>
 
 <p align="center">
