@@ -1,28 +1,28 @@
-<h1 align="center">Hey 👋, I'm Minaj Uddin</h1>
+<h1 align="center">Hey 👋, I'm MD. Minaj Uddin</h1>
 
 <h3 align="center">
-🚀 Software Engineering Student | 💻 Vibe Coder 
+🚀 Software Engineering Student | 💻 Vibe Coder | 📈 Future Tech Entrepreneur
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Projects+with+AI;Stock+Market+Trader;Future+Tech+Entrepreneur&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Projects;AI+Powered+Developer;Future+Tech+Entrepreneur&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 BCA Software Engineering student (Amity University Online)
-- 💻 Building projects using AI tools (Lovable, Bolt, V0, Cursor)
-- 🚀 Future goal: Build profitable tech
-- ⚡ Believe in real-world skills over theory
+- 💻 Building real-world projects using AI tools (Lovable, Bolt, V0, Cursor)
+- 🚀 Focused on creating products, not just learning code
+- ⚡ Strong believer in real-world execution over theory
 
 ---
 
 ## 💼 What I'm Working On
-- 🌐 Personal websites & business sites
-- 🎮 Multiplayer games (Ludo + Snake)
-- 🧮 Advanced calculator web app
-- 🤖 AI-powered web development workflow
+- 🌐 Business & personal websites
+- 🎮 Interactive web apps and games
+- 🧮 Advanced UI-based applications
+- 🤖 AI-powered development workflows
 
 ---
 
@@ -30,6 +30,32 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,firebase" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧮 Advanced Calculator Web App
+A modern, aesthetic calculator with smooth UI and advanced features.
+
+🔗 Live Demo: https://minajuddin0510.github.io/calculator-app/  
+💻 Source Code: https://github.com/minajuddin0510/calculator-app  
+
+---
+
+### 🎨 Air Drawing App
+Draw in the air using hand gestures — interactive and fun web app.
+
+🔗 Live Demo: https://minajuddin0510.github.io/Air-Drawing/  
+💻 Source Code: https://github.com/minajuddin0510/Air-Drawing  
+
+---
+
+### 💖 Friendship Day Website
+A creative and emotional web experience built for friendship celebration.
+
+🔗 Live Demo: https://minajuddin0510.github.io/happy_friendship_day/  
+💻 Source Code: https://github.com/minajuddin0510/happy_friendship_day  
 
 ---
 
@@ -61,19 +87,4 @@
 ---
 
 ## ⚡ Fun Fact
-💡 "I don’t just build projects… I build income systems."
-
-<!--
-**minajuddin0510/minajuddin0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 "I don't just build projects... I build systems that can make money."
