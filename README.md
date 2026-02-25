@@ -59,12 +59,6 @@ A creative and emotional web experience built for friendship celebration.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minajuddin0510&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Streak Stats
 <p align="center">
@@ -73,12 +67,6 @@ A creative and emotional web experience built for friendship celebration.
 
 ---
 
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minajuddin0510&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 - 📧 Email: minajuddin0510@gmail.com
