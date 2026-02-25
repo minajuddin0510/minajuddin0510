@@ -54,14 +54,6 @@
 
 ---
 
-## 📈 Trading Journey
-- Started trading in Class 11
-- Experience in Intraday, Options Buying & Selling
-- Investing in ETFs (Nifty, Midcap, Smallcap, Nasdaq, Gold)
-- Building discipline, psychology & risk management
-
----
-
 ## 🌐 Connect With Me
 - 📧 Email: minajuddin0510@gmail.com
 - 📱 Phone: +91 8974097788
