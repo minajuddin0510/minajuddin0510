@@ -52,7 +52,7 @@ Draw in the air using hand gestures — an interactive and creative web experien
 ---
 
 ### 💖 Friendship Day Website
-A creative and emotional web experience built for friendship celebration.
+A creative and emotional web experience built for a friendship celebration.
 
 🔗 Live Demo: https://minajuddin0510.github.io/happy_friendship_day/  
 💻 Source Code: https://github.com/minajuddin0510/happy_friendship_day  
@@ -70,7 +70,7 @@ A creative and emotional web experience built for friendship celebration.
 
 ## 🌐 Connect With Me
 - 📧 Email: minajuddin0510@gmail.com
-- 📱 Phone: +91 8974097788
+- 📱 Phone (Only WhatsApp): +91 7630948912
 
 ---
 
